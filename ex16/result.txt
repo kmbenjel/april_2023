@@ -1,3 +1,10 @@
+Question:
+
+What is your best joke? (max chars: 512)
+
+
+Result:
+
 Why don't scientists trust atoms?
 
 Because they make up everything!
